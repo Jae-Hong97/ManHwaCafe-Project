@@ -1,0 +1,13 @@
+.incomelist{
+    margin: auto;
+    
+    
+    width: 1200px;
+    height: 650px;
+}
+
+.list {
+    padding-left: 20px;
+    text-align: left;
+    border-bottom: 1px solid gray;
+  }

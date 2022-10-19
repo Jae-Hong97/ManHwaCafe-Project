@@ -1,0 +1,43 @@
+.container{
+    
+    
+    width: 1800px;
+    height: 740px;
+    gap: 10px;
+    margin: 16px;
+    
+}
+
+.redistcontainer{
+    position: absolute;
+    top: 220px;
+    left: 45px;
+    width: 250px;
+    height: 500px;
+    background-color: aqua;
+    gap: 10px;
+}
+
+.correction{
+    position: absolute;
+    top: 220px;
+    left: 500px;
+    width: 1000px;
+    height: 500px;
+    background-color: bisque;
+}
+
+.add{
+    position: absolute;
+    
+    
+    top: 730px;
+    left: 115px;
+}
+
+.sitName{
+    position: absolute;
+    
+    top: 800px;
+    left: 500px;
+}
